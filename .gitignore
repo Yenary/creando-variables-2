@@ -3,3 +3,5 @@
 
 #entorno virtual
 venv/
+
+__pycache__/
